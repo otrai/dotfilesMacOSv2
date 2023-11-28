@@ -1,0 +1,8 @@
+tap "homebrew/bundle"
+brew "bat"
+brew "exa"
+brew "httpie"
+cask "alfred"
+cask "dropbox"
+cask "google-chrome"
+cask "visual-studio-code"
