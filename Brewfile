@@ -8,6 +8,7 @@ brew "git"
 # User-friendly cURL replacement (command-line HTTP client)
 brew "httpie"
 # Mac App Store command-line interface
+brew "mas"
 # Password manager that keeps all passwords secure behind one password
 cask "1password"
 # Application launcher and productivity software
@@ -20,3 +21,4 @@ cask "gitkraken"
 cask "google-chrome"
 # Open-source code editor
 cask "visual-studio-code"
+mas "Rosetta Stone", id: 1476088902
