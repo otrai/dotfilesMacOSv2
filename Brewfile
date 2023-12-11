@@ -7,6 +7,8 @@ brew "eza"
 brew "git"
 # User-friendly cURL replacement (command-line HTTP client)
 brew "httpie"
+# Password manager that keeps all passwords secure behind one password
+cask "1password"
 # Application launcher and productivity software
 cask "alfred"
 # Client for the Dropbox cloud storage service
