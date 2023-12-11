@@ -12,3 +12,4 @@ I'm learning about dotfiles at
 - Finder Show Path Bar
 - Trackpad (Three Finger Drag and Tap to Click)
 - Git (config and SSH)
+- Alfred (turn off spotlight shortcut and use it for Alfred instead)
