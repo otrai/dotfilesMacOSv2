@@ -21,4 +21,8 @@ cask "gitkraken"
 cask "google-chrome"
 # Open-source code editor
 cask "visual-studio-code"
+mas "24 Hour Wallpaper", id: 1226087575
+mas "Kindle", id: 302584613
+mas "Remote Desktop", id: 409907375
 mas "Rosetta Stone", id: 1476088902
+mas "TextSniper", id: 1528890965
