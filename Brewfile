@@ -11,6 +11,8 @@ brew "httpie"
 brew "mas"
 # Password manager that keeps all passwords secure behind one password
 cask "1password"
+# Command-line interface for 1Password
+cask "1password-cli"
 # Application launcher and productivity software
 cask "alfred"
 # Client for the Dropbox cloud storage service
