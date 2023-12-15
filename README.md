@@ -8,6 +8,7 @@ I'm learning about dotfiles at
 - Terminal Preferences
 - Changed Shell to ZSH
 - Dock Preferences
+- Set Automatically hide and show menu bar to always
 - Mission Control Preferences (don't rearrange spaces)
 - Finder Show Path Bar
 - Trackpad (Three Finger Drag and Tap to Click)
