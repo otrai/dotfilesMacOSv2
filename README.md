@@ -22,7 +22,9 @@ I'm learning about dotfiles at
   - install 2.1.65 (old version not installed - see issues)
   - butler package
   - cloze overlapper (anki addon - patreon)
-  - anki connect (anki addon)
   - anki editor (vs code addon)
+  - anki connect (anki addon)
   - anki preview reloader (anki addon)
   - anki webview inspector (anki addon)
+  - syntax highlighting for code (anki addon) - set style to "monokai"
+  - language tools (anki addon) - enter api key & follow setup instructions
