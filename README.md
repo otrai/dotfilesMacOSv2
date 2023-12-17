@@ -18,3 +18,11 @@ I'm learning about dotfiles at
 - 24 Hour Wallpaper (enable open at login, show in menu bar only, set location)
 - Text Sniper (enable launch at login and show in menu bar)
 - Kindle (auto download audiobooks)
+- Anki
+  - install 2.1.65 (old version not installed - see issues)
+  - butler package
+  - cloze overlapper (anki addon - patreon)
+  - anki connect (anki addon)
+  - anki editor (vs code addon)
+  - anki preview reloader (anki addon)
+  - anki webview inspector (anki addon)
