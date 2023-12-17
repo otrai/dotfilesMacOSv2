@@ -15,6 +15,8 @@ cask "1password"
 cask "1password-cli"
 # Application launcher and productivity software
 cask "alfred"
+# Memory training application
+cask "anki"
 # Client for the Dropbox cloud storage service
 cask "dropbox"
 # Git client focusing on productivity
@@ -28,3 +30,4 @@ mas "Kindle", id: 302584613
 mas "Remote Desktop", id: 409907375
 mas "Rosetta Stone", id: 1476088902
 mas "TextSniper", id: 1528890965
+vscode "pedro-bronsveld.anki-editor"
