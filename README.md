@@ -28,3 +28,4 @@ I'm learning about dotfiles at
   - anki webview inspector (anki addon)
   - syntax highlighting for code (anki addon) - set style to "monokai"
   - language tools (anki addon) - enter api key & follow setup instructions
+- ithoughtsX (enable LaTeX, set default map, disbale notes view open intially)

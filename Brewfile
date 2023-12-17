@@ -23,6 +23,8 @@ cask "dropbox"
 cask "gitkraken"
 # Web browser
 cask "google-chrome"
+# Mind mapping tool
+cask "ithoughtsx"
 # Open-source code editor
 cask "visual-studio-code"
 mas "24 Hour Wallpaper", id: 1226087575
