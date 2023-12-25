@@ -25,6 +25,8 @@ cask "gitkraken"
 cask "google-chrome"
 # Mind mapping tool
 cask "ithoughtsx"
+# Screen capture software
+cask "snagit"
 # Open-source code editor
 cask "visual-studio-code"
 mas "24 Hour Wallpaper", id: 1226087575
