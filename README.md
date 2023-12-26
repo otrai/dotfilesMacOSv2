@@ -14,7 +14,7 @@ I'm learning about dotfiles at
 - Trackpad (Three Finger Drag and Tap to Click)
 - Git (config and SSH)
 - Alfred (turn off spotlight shortcut and use it for Alfred instead)
-- 1Password (enable CLI)
+- 1Password (enable CLI, disable browser prompt for passwords)
 - 24 Hour Wallpaper (enable open at login, show in menu bar only, set location)
 - Text Sniper (enable launch at login and show in menu bar)
 - Kindle (auto download audiobooks)
