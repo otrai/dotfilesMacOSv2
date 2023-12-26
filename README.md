@@ -28,5 +28,6 @@ I'm learning about dotfiles at
   - anki webview inspector (anki addon)
   - syntax highlighting for code (anki addon) - set style to "monokai"
   - language tools (anki addon) - enter api key & follow setup instructions
-- ithoughtsX (enable LaTeX, set default map, disbale notes view open intially)
+- ithoughtsX (enable LaTeX, set default map, disbale notes view open intially, set LaTeX color to white)
 - Snagit (research screenshot software to replace or use in combination with system functions)
+- Obsidian (enable Obsidian Sync, enter login information, enter password for synced vaults, enable sync settings)

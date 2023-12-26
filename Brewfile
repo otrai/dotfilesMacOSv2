@@ -25,6 +25,8 @@ cask "gitkraken"
 cask "google-chrome"
 # Mind mapping tool
 cask "ithoughtsx"
+# Knowledge base that works on top of a local folder of plain text Markdown files
+cask "obsidian"
 # Screen capture software
 cask "snagit"
 # Open-source code editor
