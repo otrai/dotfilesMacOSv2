@@ -17,6 +17,7 @@ I'm learning about dotfiles at
 - 1Password (enable CLI, disable browser prompt for passwords)
 - 24 Hour Wallpaper (enable open at login, show in menu bar only, set location)
 - Text Sniper (enable launch at login and show in menu bar)
+- Mathpix Snipping Tool (allow screen recording under Privacy & Security)
 - Kindle (auto download audiobooks)
 - Anki
   - install 2.1.65 (old version not installed - see issues)
