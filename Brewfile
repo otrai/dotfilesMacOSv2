@@ -33,6 +33,8 @@ cask "microsoft-auto-update"
 cask "microsoft-office"
 # Knowledge base that works on top of a local folder of plain text Markdown files
 cask "obsidian"
+# PDF reader, editor and annotator
+cask "pdf-expert"
 # Screen capture software
 cask "snagit"
 # Open-source code editor
