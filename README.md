@@ -32,3 +32,8 @@ I'm learning about dotfiles at
 - ithoughtsX (enable LaTeX, set default map, disbale notes view open intially, set LaTeX color to white)
 - Snagit (research screenshot software to replace or use in combination with system functions)
 - Obsidian (enable Obsidian Sync, enter login information, enter password for synced vaults, enable sync settings)
+- Zotero (setup sync, instal add-ons, install zotero browser connector)
+ - Install Better BibTex for Zotero add-on
+ - Night for Zotero add-on (click sun icon in right corner - turns to moon)
+ - Install Zotero Libre Office Integration add-on
+ - Install Zotero Word for Mac Integration add-on

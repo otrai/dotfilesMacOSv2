@@ -37,6 +37,8 @@ cask "obsidian"
 cask "snagit"
 # Open-source code editor
 cask "visual-studio-code"
+# Collect, organize, cite, and share research sources
+cask "zotero"
 mas "24 Hour Wallpaper", id: 1226087575
 mas "Kindle", id: 302584613
 mas "Remote Desktop", id: 409907375
