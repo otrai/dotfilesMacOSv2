@@ -37,10 +37,13 @@ cask "obsidian"
 cask "pdf-expert"
 # Screen capture software
 cask "snagit"
+# Trading software
+cask "trader-workstation"
 # Open-source code editor
 cask "visual-studio-code"
 # Collect, organize, cite, and share research sources
 cask "zotero"
+mas "1Password for Safari", id: 1569813296
 mas "24 Hour Wallpaper", id: 1226087575
 mas "Kindle", id: 302584613
 mas "Remote Desktop", id: 409907375
