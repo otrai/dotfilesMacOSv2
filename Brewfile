@@ -9,6 +9,8 @@ brew "git"
 brew "httpie"
 # Mac App Store command-line interface
 brew "mas"
+# Development kit for the Java programming language
+brew "openjdk@17"
 # Password manager that keeps all passwords secure behind one password
 cask "1password"
 # Command-line interface for 1Password
@@ -25,6 +27,8 @@ cask "gitkraken"
 cask "google-chrome"
 # Mind mapping tool
 cask "ithoughtsx"
+# JetBrains tools manager
+cask "jetbrains-toolbox"
 # Scanner app for math and science
 cask "mathpix-snipping-tool"
 # Provides updates to various Microsoft products
