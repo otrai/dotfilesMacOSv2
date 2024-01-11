@@ -11,6 +11,10 @@ brew "httpie"
 brew "mas"
 # Development kit for the Java programming language
 brew "openjdk@17"
+# Interpreted, interactive, object-oriented programming language
+brew "python@3.11"
+# Python interface to Tcl/Tk
+brew "python-tk@3.11"
 # Password manager that keeps all passwords secure behind one password
 cask "1password"
 # Command-line interface for 1Password
@@ -19,6 +23,8 @@ cask "1password-cli"
 cask "alfred"
 # Memory training application
 cask "anki"
+# Voice and text chat software
+cask "discord"
 # Client for the Dropbox cloud storage service
 cask "dropbox"
 # Git client focusing on productivity
