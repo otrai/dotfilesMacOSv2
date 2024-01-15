@@ -12,6 +12,7 @@ I'm learning about dotfiles at
 - Mission Control Preferences (don't rearrange spaces)
 - Finder Show Path Bar
 - Trackpad (Three Finger Drag and Tap to Click)
+- iMessage (Turn on automatic sharing (apps), enable icloud messages, setup name and photo sharing)
 - Git (config and SSH)
 - Alfred (turn off spotlight shortcut and use it for Alfred instead)
 - 1Password (enable CLI, disable browser prompt for passwords, install browser extension)
