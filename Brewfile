@@ -49,6 +49,8 @@ cask "pdf-expert"
 cask "snagit"
 # Trading software
 cask "trader-workstation"
+# Charting and social-networking for investment traders
+cask "tradingview"
 # Open-source code editor
 cask "visual-studio-code"
 # Collect, organize, cite, and share research sources
