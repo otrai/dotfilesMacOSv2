@@ -57,6 +57,7 @@ cask "visual-studio-code"
 cask "zotero"
 mas "1Password for Safari", id: 1569813296
 mas "24 Hour Wallpaper", id: 1226087575
+mas "Final Cut Pro", id: 424389933
 mas "Kindle", id: 302584613
 mas "Remote Desktop", id: 409907375
 mas "Rosetta Stone", id: 1476088902
