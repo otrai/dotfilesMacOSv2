@@ -53,6 +53,8 @@ cask "trader-workstation"
 cask "tradingview"
 # Open-source code editor
 cask "visual-studio-code"
+# Video communication and virtual meeting platform
+cask "zoom"
 # Collect, organize, cite, and share research sources
 cask "zotero"
 mas "1Password for Safari", id: 1569813296
