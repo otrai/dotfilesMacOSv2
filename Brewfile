@@ -23,6 +23,8 @@ cask "1password-cli"
 cask "alfred"
 # Memory training application
 cask "anki"
+# Screen recorder and video editor
+cask "camtasia"
 # Voice and text chat software
 cask "discord"
 # Client for the Dropbox cloud storage service
