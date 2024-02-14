@@ -21,14 +21,14 @@ I'm learning about dotfiles at
 - Mathpix Snipping Tool (allow screen recording under Privacy & Security)
 - Kindle (auto download audiobooks)
 - Anki
-  - install 2.1.65 (old version not installed - see issues)
-  - butler package
+  - install 23.12.1
+  - butler add-on package
   - cloze overlapper (anki addon - patreon)
   - anki editor (vs code addon)
   - anki connect (anki addon)
   - anki preview reloader (anki addon)
   - anki webview inspector (anki addon)
-  - syntax highlighting for code (anki addon) - set style to "monokai"
+  - highlight code (anki addon)
   - language tools (anki addon) - enter api key & follow setup instructions
 - ithoughtsX (enable LaTeX, set default map, disbale notes view open intially, set LaTeX color to white)
 - Snagit (research screenshot software to replace or use in combination with system functions)
