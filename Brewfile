@@ -66,4 +66,7 @@ mas "Kindle", id: 302584613
 mas "Remote Desktop", id: 409907375
 mas "Rosetta Stone", id: 1476088902
 mas "TextSniper", id: 1528890965
+vscode "ms-python.debugpy"
+vscode "ms-python.python"
+vscode "ms-python.vscode-pylance"
 vscode "pedro-bronsveld.anki-editor"
