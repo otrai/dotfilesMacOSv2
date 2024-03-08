@@ -33,6 +33,8 @@ cask "dropbox"
 cask "gitkraken"
 # Web browser
 cask "google-chrome"
+# Virtual globe
+cask "google-earth-pro"
 # Mind mapping tool
 cask "ithoughtsx"
 # JetBrains tools manager
@@ -57,7 +59,7 @@ cask "tradingview"
 cask "visual-studio-code"
 # Video communication and virtual meeting platform
 cask "zoom"
-# Collect, organize, cite, and share research sources
+# Collect, organise, cite, and share research sources
 cask "zotero"
 mas "1Password for Safari", id: 1569813296
 mas "24 Hour Wallpaper", id: 1226087575
