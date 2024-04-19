@@ -29,6 +29,8 @@ cask "camtasia"
 cask "discord"
 # Client for the Dropbox cloud storage service
 cask "dropbox"
+# Web browser
+cask "firefox"
 # Git client focusing on productivity
 cask "gitkraken"
 # Web browser
