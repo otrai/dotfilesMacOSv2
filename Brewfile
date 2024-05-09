@@ -59,6 +59,8 @@ cask "trader-workstation"
 cask "tradingview"
 # Open-source code editor
 cask "visual-studio-code"
+# Resources for Wacom tablets
+cask "wacom-tablet"
 # Video communication and virtual meeting platform
 cask "zoom"
 # Collect, organise, cite, and share research sources
