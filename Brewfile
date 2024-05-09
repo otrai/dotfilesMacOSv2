@@ -67,6 +67,7 @@ mas "1Password for Safari", id: 1569813296
 mas "24 Hour Wallpaper", id: 1226087575
 mas "Final Cut Pro", id: 424389933
 mas "Kindle", id: 302584613
+mas "Microsoft To Do", id: 1274495053
 mas "Remote Desktop", id: 409907375
 mas "Rosetta Stone", id: 1476088902
 mas "TextSniper", id: 1528890965
