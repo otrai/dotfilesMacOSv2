@@ -31,6 +31,7 @@ I'm learning about dotfiles at
   - highlight code (anki addon)
   - language tools (anki addon) - enter api key & follow setup instructions
   - Batch Download Pictures From Google Images
+  - Custom Background Image and Gear Icon
 - ithoughtsX (enable LaTeX, set default map, disbale notes view open intially, set LaTeX color to white)
 - Snagit (research screenshot software to replace or use in combination with system functions)
 - Obsidian (enable Obsidian Sync, enter login information, enter password for synced vaults, enable sync settings)
