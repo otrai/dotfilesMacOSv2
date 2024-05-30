@@ -19,6 +19,8 @@ brew "python-tk@3.11"
 cask "1password"
 # Command-line interface for 1Password
 cask "1password-cli"
+# Collection of apps and services for photography, design, video, web, and UX
+cask "adobe-creative-cloud"
 # Application launcher and productivity software
 cask "alfred"
 # Memory training application
