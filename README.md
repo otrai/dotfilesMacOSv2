@@ -44,3 +44,4 @@ I'm learning about dotfiles at
  - install IntelliJ and the JDK (see Zotero & Medium for install instructions)
  - IntelliJ settings (followed Udemy Java 17 Masterclass) and enable sync settings
  - install PyCharm and Python3 (installed python3 and tkinter(GUI) using same instructions)
+ - enable presentation assistant (it is no longer a plugin - it is integrated)
