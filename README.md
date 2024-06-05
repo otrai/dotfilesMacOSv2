@@ -16,6 +16,7 @@ I'm learning about dotfiles at
 - Keyboard Input Sources
   - Install Latin American keyboard
   - Install Unicode Hex Input keyboard
+  - Add phonetic alpabet to character viewer using customize list (emoji & symbols)
 - Git (config and SSH)
 - Alfred (turn off spotlight shortcut and use it for Alfred instead)
 - 1Password (enable CLI, disable browser prompt for passwords, install browser extension)
