@@ -49,6 +49,10 @@ cask "mathpix-snipping-tool"
 cask "microsoft-auto-update"
 # Office suite
 cask "microsoft-office"
+# App to write, plan, collaborate, and get organised
+cask "notion"
+# Calendar for professionals and teams
+cask "notion-calendar"
 # Knowledge base that works on top of a local folder of plain text Markdown files
 cask "obsidian"
 # PDF reader, editor and annotator
