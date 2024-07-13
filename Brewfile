@@ -65,6 +65,8 @@ cask "trader-workstation"
 cask "tradingview"
 # Open-source code editor
 cask "visual-studio-code"
+# Create, manage, and run virtual machines
+cask "vmware-fusion"
 # Resources for Wacom tablets
 cask "wacom-tablet"
 # Video communication and virtual meeting platform
@@ -76,6 +78,7 @@ mas "24 Hour Wallpaper", id: 1226087575
 mas "Final Cut Pro", id: 424389933
 mas "Kindle", id: 302584613
 mas "Microsoft To Do", id: 1274495053
+mas "Notability", id: 360593530
 mas "Remote Desktop", id: 409907375
 mas "Rosetta Stone", id: 1476088902
 mas "TextSniper", id: 1528890965
