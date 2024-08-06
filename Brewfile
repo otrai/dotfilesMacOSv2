@@ -57,6 +57,8 @@ cask "notion-calendar"
 cask "obsidian"
 # PDF reader, editor and annotator
 cask "pdf-expert"
+# Client for Proton Mail and Proton Calendar
+cask "proton-mail"
 # Screen capture software
 cask "snagit"
 # Trading software
