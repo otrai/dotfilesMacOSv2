@@ -49,6 +49,8 @@ cask "mathpix-snipping-tool"
 cask "microsoft-auto-update"
 # Office suite
 cask "microsoft-office"
+# Meet, chat, call, and collaborate in just one place
+cask "microsoft-teams"
 # App to write, plan, collaborate, and get organised
 cask "notion"
 # Calendar for professionals and teams
