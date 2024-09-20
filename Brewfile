@@ -43,6 +43,8 @@ cask "google-earth-pro"
 cask "ithoughtsx"
 # JetBrains tools manager
 cask "jetbrains-toolbox"
+# Software for Logitech devices
+cask "logi-options+"
 # Scanner app for math and science
 cask "mathpix-snipping-tool"
 # Provides updates to various Microsoft products
