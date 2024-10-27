@@ -6,9 +6,10 @@ I'm learning about dotfiles at
 
 ## TODO
 - Terminal Preferences
-- Changed Shell to ZSH
+-   Changed Shell to ZSH
 - Dock Preferences
-- Show scroll bars to when scrolling (Appearance)
+-   Show scroll bars to when scrolling (Appearance)
+-   Turn off show suggested and recent apps in Dock
 - Set Automatically hide and show menu bar to always
 - Mission Control Preferences (don't rearrange spaces)
 - Finder Show Path Bar
