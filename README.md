@@ -51,3 +51,8 @@ I'm learning about dotfiles at
  - IntelliJ settings (followed Udemy Java 17 Masterclass) and enable sync settings
  - install PyCharm and Python3 (installed python3 and tkinter(GUI) using same instructions)
  - enable presentation assistant (it is no longer a plugin - it is integrated)
+ - install browser extensions:
+  - ublock origin
+  - dark reader
+  - zotero connector
+  - 1password
