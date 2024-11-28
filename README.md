@@ -27,7 +27,7 @@ I'm learning about dotfiles at
 - Mathpix Snipping Tool (allow screen recording under Privacy & Security)
 - Kindle (auto download audiobooks)
 - Anki
-  - install 23.12.1
+  - install 24.06.3
   - butler add-on package
   - cloze overlapper (anki addon - patreon)
   - anki editor (vs code addon)
