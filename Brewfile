@@ -31,6 +31,8 @@ cask "camtasia"
 cask "discord"
 # Client for the Dropbox cloud storage service
 cask "dropbox"
+# Elgato FACECAM configuration tool
+cask "elgato-camera-hub"
 # Web browser
 cask "firefox"
 # Git client focusing on productivity
@@ -93,3 +95,12 @@ vscode "ms-python.debugpy"
 vscode "ms-python.python"
 vscode "ms-python.vscode-pylance"
 vscode "pedro-bronsveld.anki-editor"
+vscode "redhat.java"
+vscode "visualstudioexptteam.intellicode-api-usage-examples"
+vscode "visualstudioexptteam.vscodeintellicode"
+vscode "vscjava.vscode-gradle"
+vscode "vscjava.vscode-java-debug"
+vscode "vscjava.vscode-java-dependency"
+vscode "vscjava.vscode-java-pack"
+vscode "vscjava.vscode-java-test"
+vscode "vscjava.vscode-maven"
