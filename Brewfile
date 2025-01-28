@@ -69,6 +69,8 @@ cask "proton-mail"
 cask "protonvpn"
 # Screen capture software
 cask "snagit"
+# Sync and backup service to Synology NAS drives
+cask "synology-drive"
 # Trading software
 cask "trader-workstation"
 # Charting and social-networking for investment traders
