@@ -35,6 +35,8 @@ cask "discord"
 cask "dropbox"
 # Elgato FACECAM configuration tool
 cask "elgato-camera-hub"
+# Assign keys, and then decorate and label them
+cask "elgato-stream-deck"
 # Web browser
 cask "firefox"
 # Git client focusing on productivity
