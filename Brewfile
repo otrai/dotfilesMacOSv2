@@ -27,6 +27,8 @@ cask "alfred"
 cask "anki"
 # Screen recorder and video editor
 cask "camtasia"
+# Hard disk backup and cloning utility
+cask "carbon-copy-cloner"
 # Voice and text chat software
 cask "discord"
 # Client for the Dropbox cloud storage service
