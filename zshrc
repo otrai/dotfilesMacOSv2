@@ -10,8 +10,8 @@ export HOMEBREW_CASK_OPTS="--no-quarantine"
 
 # Create Aliases
 # alias ls='ls -lAFh'
-alias ls='eza -laFh --git'
-alias eza='eza -laFh --git'
+alias ls='eza -la --classify=always --git'
+alias eza='eza -la --classify=always --git'
 
 # Customize Prompts
 PROMPT='
